@@ -1,0 +1,53 @@
+{
+  "navbar": {},
+  "headerHome": "For all occasions Women Men",
+  "online": "Book ONLINE!",
+  "aboutH1s1": "We Believe In",
+  "aboutH1s2": "High Quality Services",
+  "aboutP": "Years of experience combined with high-quality services bundled in one team equals Kapsalon Classic.",
+  "aboutButton": "book online!",
+
+  "servicesH1": "What can we do for you?",
+  "servicesP": "We offer the following services",
+  "cardServicesOne": "Stylish Hair Cutting",
+  "cardServicesTow": "Quality Gel Shave",
+  "cardServicesThree": "Beard Trimming",
+  "cardServicesFour": "Executive Wash",
+
+  "catalogueH1": "Choose your style",
+  "catalogueP": "Beard trimming is one of the most popular services at Classic Kapsalon, often in combination with a haircut. The gallery contains examples of our work.",
+
+  "teamH1": "The team",
+  "teamP": "Our team has years of experience and stays abreast of current developments in beauty and style",
+  "teamPersonOne": "Ahmed Hamza",
+  "teamPositionOne": "HAIR CUT SPECIALIST",
+  "teamPersonTow": "Molham",
+  "teamPositionTow": "KAP-EXPERT",
+  "teamPersonThree": "Motassem",
+  "teamPositionThree": "KAP-EXPERT",
+
+  "price": {
+    "mainH1": "The Services For The Gentlemen",
+    "main": "Premium hair cut",
+    "paragraph": "PREMIUM PACKAGE",
+    "serviceOne": "To cut",
+    "serviceTow": "Blow-dry",
+    "serviceThree": "Hair wash",
+    "serviceFour": "Tea coffee",
+    "serviceFive": "Basic snacks"
+  },
+
+  "contact": {
+    "placeHome": "Enter name",
+    "placeEmail": "Enter email",
+    "placeSubject": "Enter subject",
+    "message": "Enter subject",
+    "button": "send email"
+  },
+
+  "footer": {
+    "h1Tow": "Follow us:",
+    "h1Three": "Opening hours",
+    "address": "Address"
+  }
+}

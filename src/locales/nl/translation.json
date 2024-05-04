@@ -1,0 +1,52 @@
+{
+  "headerHome": "Voor alle gelegenheden Dames Heren",
+  "online": "ONLINE Boeken!",
+  "aboutH1s1": "We Geloven In",
+  "aboutH1s2": "Diensten Van Hoge Kwaliteit",
+  "aboutP": "Jarenlang ervaring in combinatie met diensten van hoge kwaliteit gebundeld in één team is gelijk aan Kapsalon Classic.",
+  "aboutButton": "online boeken!",
+
+  "servicesH1": "Wat Kunnen We Voor U Doen?",
+  "servicesP": "We bieden de volgende diensten aan",
+  "cardServicesOne": "Stijlvol haar knippen",
+  "cardServicesTow": "Kwaliteit gelscheerbeurt",
+  "cardServicesThree": "Baard trimmen",
+  "cardServicesFour": "Uitvoerende was",
+
+  "catalogueH1": "Choose your style",
+  "catalogueP": "Baard bijknippen is een van de populairste dienst bij Classic Kapsalon, vaak in combinatie met een knipbuurt van de haar. In de galerij staan er voorbeelden van onze geleverde werk.",
+
+  "teamH1": "Het Team",
+  "teamP": "Ons team heeft jarenlang ervaring en blijft op de hoogte van de actuele ontwikkeling rondom schoonheid en stijl",
+  "teamPersonOne": "Ahmed Hamza",
+  "teamPositionOne": "KAPSELSPECIALIST",
+  "teamPersonTow": "Molham",
+  "teamPositionTow": "HAIR CUT EXPERT",
+  "teamPersonThree": "Motassem",
+  "teamPositionThree": "HAIR CUT EXPERT",
+
+  "price": {
+    "mainH1": "De Diensten Voor De Heren",
+    "main": "Premium kapsel",
+    "paragraph": "PREMIUM-PAKKET",
+    "serviceOne": "Snijden",
+    "serviceTow": "Fohnen",
+    "serviceThree": "Haar wasse",
+    "serviceFour": "Thee koffie",
+    "serviceFive": "Basis hapjes"
+  },
+
+  "contact": {
+    "placeHome": "Voer naam in",
+    "placeEmail": "Voer email in",
+    "placeSubject": "Voer onderwerp in",
+    "message": "Voer onderwerp in",
+    "button": " Verstuur email"
+  },
+
+  "footer": {
+    "h1Tow": "Volg Ons:",
+    "h1Three": "Openingstijden",
+    "address": "Adres"
+  }
+}
